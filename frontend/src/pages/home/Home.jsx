@@ -12,45 +12,7 @@ export const Home=()=>{
               heysddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
             </div>
             <div className={styles.single_chat}>hey</div>
-            <div>hey</div>
-            <div>hey</div>
-            <div>hey</div>
-            <div>hey</div>
-            <div>hey</div>
-            <div>hey</div>
-            <div>hey</div>
-            <div>hey</div>
-            <div>hey</div>
-            <div>hey</div>
-            <div>hey</div>
-            <div>hey</div>
-            <div>hey</div>
-            <div>hey</div>
-            <div>hey</div>
-            <div>hey</div>
-            <div>hey</div>
-            <div>hey</div>
-            <div>hey</div>
-            <div>hey</div>
-            <div>hey</div>
-            <div>hey</div>
-            <div>hey</div>
-            <div>hey</div>
-            <div>hey</div>
-            <div>hey</div>
-            <div>hey</div>
-            <div>hey</div>
-            <div>hey</div>
-            <div>hey</div>
-            <div>hey</div>
-            <div>hey</div>
-            <div>hey</div>
-            <div>hey</div>
-            <div>hey</div>
-            <div>hey</div>
-            <div>hey</div>
-            <div>hey</div>
-            <div>hey</div>
+            
           </div>
           <div className={styles.btn_cont}>
             <input
