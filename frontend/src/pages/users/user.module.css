@@ -1,0 +1,46 @@
+
+
+
+.cont{
+    border: 2px solid black;
+    height: 100vh;
+    max-width: 500px;
+    margin: auto;
+    overflow-y: scroll;
+}
+.user_heading{
+    font-family: 'Poppins';
+    text-align: center;
+    font-size: 40px;
+    line-height: 50px;
+    font-weight: 500;
+    
+}
+.single_user{
+    display: flex;
+    width:95%;
+    margin: auto;
+    padding-inline: 10px;
+    margin-top: 15px;
+    border-radius: 10px;
+      transition: 500ms;
+}
+.single_user:hover{
+    background-color: rgba(128, 128, 128, 0.361);
+    cursor: pointer;
+    transition: 500ms;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    
+}
+.image_div{
+    border-radius: 30px;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+.user_name{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 500;
+}

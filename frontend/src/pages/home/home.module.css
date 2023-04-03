@@ -2,7 +2,7 @@
 
 
 .cont{
-    border: 1px solid black;
+    border: 2px solid black;
     height: 100vh;
     max-width: 500px;
     margin: auto;
@@ -32,6 +32,9 @@
     border: 1px solid black;
     min-height: 10px;
     max-width: 85%;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 16px;
     overflow-wrap: break-word;
     padding: 4px;
     border-radius: 5px;

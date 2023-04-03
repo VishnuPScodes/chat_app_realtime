@@ -1,0 +1,24 @@
+.cont{
+    border: 2px solid black;
+    height: 100vh;
+    max-width: 500px;
+    margin: auto;
+   
+}
+.image{
+    border: 1px solid black;
+    height: 130px;
+    width: 130px;
+    border-radius: 50%;
+    margin: auto;
+    margin-top: 15px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+.name{
+    font-size: 30px;
+    line-height: 40px;
+    font-family: 'Poppins';
+    font-weight: 600;
+    text-align: center;
+    padding-top: 10px;
+}
